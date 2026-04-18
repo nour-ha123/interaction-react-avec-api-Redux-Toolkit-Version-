@@ -2,6 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import AllPosts from "../components/AllPosts";
 import CreatePost from "../components/CreatePost";
 import OnePost from "../components/OnePost";
+
 const AppRoutes = () => {
   return (
     <Routes>
